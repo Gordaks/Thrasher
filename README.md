@@ -1,2 +1,3 @@
 # Thrasher to pies!!!
-pozdro 
+pozdro 600 elo elo 320
+
